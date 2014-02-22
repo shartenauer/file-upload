@@ -20,7 +20,6 @@
 */
 ;(function() {
 var CORDOVA_JS_BUILD_LABEL = '3.2.0';
-<gap:plugin name="org.apache.cordova.file-transfer" />
 // file: lib/scripts/require.js
 
 /*jshint -W079 */
