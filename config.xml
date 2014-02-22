@@ -21,5 +21,6 @@
     <gap:plugin name="org.apache.cordova.core.camera" />
     <gap:plugin name="org.apache.cordova.core.geolocation" />
     <gap:plugin name="org.apache.cordova.core.dialogs" />
+    <gap:plugin name="org.apache.cordova.file-transfer" />
 
 </widget>
